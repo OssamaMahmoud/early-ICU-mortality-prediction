@@ -1,3 +1,4 @@
+# Early ICU Mortality Predicition #
 Predicit hospital mortality for patient admitted to ICU, using only data collected from the first 6 hours of ICU admission.  
 Supervised learning algorithms used, accuracy:  
 Logistic Regression: 0.73  
