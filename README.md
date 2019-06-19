@@ -13,4 +13,4 @@ Predicit hospital mortality for patient admit#ted to ICU, using only data collec
   - Minmum glucose measurement across the 6 hours
   - Admission age
 
-For more results and discussion see [detailed report](/report_and_images/report.pdf "see detailed report")
+For more results and discussion see [detailed report](/report_and_images/Report.pdf "see detailed report")
